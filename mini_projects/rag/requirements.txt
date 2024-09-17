@@ -1,0 +1,7 @@
+transformers
+datasets
+faiss-cpu
+langchain-huggingface
+langchain-community
+ollama
+torch
