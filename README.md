@@ -13,7 +13,7 @@ Traditional LLMs have a limited Scope and their outputs just depend on the data 
 2. Vaishvi Khandelwal
 3. Tanish Bhamare
 
-## Tech Stack Used
+## Tech Stack
 * Python
 * Pytorch
 * Streamlit
@@ -84,5 +84,5 @@ The description of each frame is generated based on both the current frame and t
 5. **Image Generation**: Implement image generation based on user input, adding dynamic and interactive visual responses.
 
 ## Acknowledgements 
-• We are extremely grateful to our mentors, Kshitij, Mohammed and Tvisha. 
-• Project X under Community of Coders (COC) at VJTI, Mumbai. 
+* We are extremely grateful to our mentors, Kshitij, Mohammed and Tvisha. 
+* Project X under Community of Coders (COC) at VJTI, Mumbai. 
