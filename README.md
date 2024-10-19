@@ -50,11 +50,11 @@ This flow ensures that the system retrieves specific, relevant information, maki
   - **Audio**: Processed using the Whisper model.
 The description of each frame is generated based on both the current frame and the previous frame, ensuring continuity and context.
 
-## RAG on PDF
+## [RAG on PDF](https://github.com/Tanish2207/Not-So-Generic-Chatbot/blob/Ninad/Mini-Projects/Doc_RAG.ipynb)
 ![Pdf Demo](pdf.png)
-## RAG on Youtube Link
+## [RAG on Youtube Link](https://github.com/Tanish2207/Not-So-Generic-Chatbot/blob/Ninad/Mini-Projects/Yt_RAG.ipynb)
 ![YouTube URL Link Demo](<transcipt final.png>)
-## RAG on Websites
+## [RAG on Websites](https://github.com/Tanish2207/Not-So-Generic-Chatbot/blob/Ninad/Mini-Projects/WebScraping.ipynb)
 ![Web Scrapping Demo](webscrapping.png)
 ## RAG on Images
 ![Image RAG](image_final.png)
