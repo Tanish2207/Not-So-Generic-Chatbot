@@ -60,7 +60,11 @@ The description of each frame is generated based on both the current frame and t
 ![Image RAG](image_final.png)
 ## RAG on Videos
 ![Video Demo](video_demo(terminal).png)
-<video controls src="demo_vid.mp4" title="Title"></video>
+<video controls src="demo_vid.mp4" title="Football"></video>
+
+
+## Demo video
+<video controls src="final_working_demo.mp4" title="Demo video"></video>
 
 
 ## Challenges Faced:
