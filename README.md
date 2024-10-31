@@ -59,12 +59,15 @@ The description of each frame is generated based on both the current frame and t
 ## RAG on Images
 ![Image RAG](image_final.png)
 ## RAG on Videos
+https://github.com/user-attachments/assets/83264cbf-37e4-4662-ade7-8f05c4938320
+
 ![Video Demo](video_demo(terminal).png)
-<video controls src="demo_vid.mp4" title="Football"></video>
+
+
 
 
 ## Demo video
-<video controls src="final_working_demo.mp4" title="Demo video"></video>
+https://github.com/user-attachments/assets/212e3953-c23f-4071-b694-7a9c2f4d42a7
 
 
 ## Challenges Faced:
